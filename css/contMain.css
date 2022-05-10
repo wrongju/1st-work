@@ -1,0 +1,42 @@
+main {
+   display: flex;
+   border-bottom: 1px solid rgba(255, 2, 2, 0.359);
+
+}
+
+main {
+   display: flex;
+   flex-direction: row;
+   align-items: flex-start;
+   margin: 0 auto;
+   margin-top: 15px;
+   background-color: rgba(14, 12, 12, 0.384);
+   width: 1240px;
+   box-shadow: 0 0 7px rgba(233, 10, 10, 0.671);
+   border-radius: 10px;
+   background-color:rgba(247, 244, 244, 0.058);
+}
+
+.div{
+   display: flex;
+   flex-direction: column;
+   color: aliceblue;
+   font-family: 'Comfortaa', cursive;
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+.contact {
+   font-weight: 800;
+   font-size: 30px;
+}
+.p {
+   margin-top: -10px;
+}
+b {
+   font-weight: 800;
+}
+
+a {
+   text-decoration: none;
+}

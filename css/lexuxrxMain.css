@@ -1,0 +1,98 @@
+main {
+   display: flex;
+   border-bottom: 1px solid rgba(255, 2, 2, 0.359);
+
+}
+
+main {
+   display: flex;
+   flex-direction: row;
+   align-items: flex-start;
+   margin: 0 auto;
+   margin-top: 15px;
+   background-color: rgba(14, 12, 12, 0.384);
+   width: 1240px;
+   box-shadow: 0 0 7px rgba(233, 10, 10, 0.671);
+   border-radius: 10px;
+   background-color:rgba(247, 244, 244, 0.058);
+}
+
+.catalog {
+   display: flex;
+   font-size: 20px;
+   color: rgba(240, 248, 255, 0.349);
+   font-family: 'Comfortaa', cursive;
+   font-weight: 200;
+   margin-left: 20px;
+   margin-top: 25px;
+}
+
+a {
+   text-decoration: none;
+}
+.banners_1 {
+   display: flex;
+   flex-direction: column;
+}
+.bannertext_camry {
+   color: aliceblue;
+   font-family: 'Comfortaa', cursive;
+   font-size: 40px;
+   font-weight: 200;
+   margin: 20px 20px;
+   display: flex;
+   align-self: center;
+}
+.bannercamry {
+   width: 100%;
+   box-shadow: 0px -6px 13px -7px #ffffff, 0px 6px 13px -7px #ffffff, 2px 2px 6px 9px rgba(255, 255, 255, 0);
+}
+.textcamry {
+   color: aliceblue;
+   font-size: 14px;
+   font-family: 'Comfortaa', cursive;
+   font-weight: 200;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+.galoch {
+   margin-top: 5px;
+   margin-left: -40px;
+   position: absolute;
+}
+.licamry1 {
+   font-size: 16px;
+   font-family: 'Comfortaa', cursive;
+   font-weight: 200;
+   color: aliceblue;
+   margin-left: 20px;
+   margin-top: -30px;
+   padding: 28px;
+   position: relative;
+}
+
+.licamry {
+   margin-left: -15px;
+   list-style-type: none;
+   display: flex;
+   flex-direction: column;
+}
+.textcam {
+   font-size: 20px;
+   color: aliceblue;
+   margin-left: 20px;
+   font-family: 'Comfortaa', cursive;
+   font-weight: 200;
+   margin-top: -20px;
+}
+.camb {
+   margin-top: 15px;
+   font-weight: 200;
+}
+.charcamry {
+   color: aliceblue;
+   font-size: 30px;
+   font-family: 'Comfortaa', cursive;
+   font-weight: 600;
+   margin-left: 20px;
+}
